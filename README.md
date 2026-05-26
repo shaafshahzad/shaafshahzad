@@ -3,9 +3,9 @@
 Computer Engineering student @ Toronto Metropolitan University.
 
 - Software Developer Intern @ Environment and Climate Change Canada
-- Building public-facing systems used by 40M+ monthly visitors
-- Built a first-place project-based learning platform for aspiring developers at the McMasterU Google Solutions Challenge
-- Built an interactive geography games platform with 5K+ users
+- Building [public-facing weather systems](https://weather.gc.ca/) used by 40M+ monthly visitors
+- Built [DeepEnd](https://deep-end.vercel.app), a first-place project-based learning platform for aspiring developers ([repo](https://github.com/shaafshahzad/DeepEnd))
+- Built [Geography Gauntlet](https://geogauntlet.vercel.app), an interactive geography games platform with 5K+ users ([repo](https://github.com/shaafshahzad/geography-gauntlet))
 
 Interested in full-stack products, developer tools, AI, and systems that make useful things easier to build.
 
