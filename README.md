@@ -2,11 +2,7 @@
 
 Computer Engineering student @ Toronto Metropolitan University.
 
-Currently:
-- Software Developer Intern @ Environment and Climate Change Canada
-  - Building public-facing systems used by 40M+ monthly visitors
-
-Side Projects:
+- Software Developer Intern @ Environment and Climate Change Canada, building public-facing systems used by 40M+ monthly visitors
 - First-place project-based learning platform for aspiring developers at the McMasterU Google Solutions Challenge
 - Interactive geography games platform
 
