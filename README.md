@@ -2,8 +2,8 @@
 
 Computer Engineering student @ Toronto Metropolitan University.
 
-- Software Developer Intern @ Environment and Climate Change Canada
-- Building [public-facing weather systems](https://weather.gc.ca/) used by 40M+ monthly visitors
+- Previously a Software Developer Intern @ Environment and Climate Change Canada
+- Built [public-facing weather systems](https://weather.gc.ca/) used by 40M+ monthly visitors
 - Built [DeepEnd](https://deep-end.vercel.app), a first-place project-based learning platform for aspiring developers ([repo](https://github.com/shaafshahzad/DeepEnd))
 - Built [Geography Gauntlet](https://geogauntlet.vercel.app), an interactive geography games platform with 5K+ users ([repo](https://github.com/shaafshahzad/geography-gauntlet))
 
